@@ -1,5 +1,5 @@
 # One_Page_Portfolio
-A basic portfolio webpage built with basic HTML and CSS to showcase my skills and projects.
+A basic one page portfolio webpage built with basic HTML and CSS to showcase my skills and projects.
 
 1. 📝 Description
 
